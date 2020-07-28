@@ -1,0 +1,46 @@
+*{
+
+    text-align: center;
+}
+
+ul{
+
+    
+    
+}
+
+.abc{
+
+    background-color: yellow;
+    width: 30%;
+    text-align: center;
+    margin: 50px 50px 40px 390px;
+    padding-top: 20px;
+    padding-bottom: 50%;
+    height: 50%;
+}
+
+input{
+
+
+   height: 27px;
+
+}
+
+button{
+
+
+
+    height: 32px;
+    background-color: palevioletred;
+
+    border-radius: 4px;
+}
+
+.delete{
+
+
+    background-color: tomato;
+    padding: 10px;
+    margin: 10px;
+}
